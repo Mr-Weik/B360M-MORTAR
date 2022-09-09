@@ -471,7 +471,7 @@
                     <key>Comment</key>
                     <string>V0.3.1</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/RadeonSensor</string>
                     <key>MaxKernel</key>
@@ -489,7 +489,7 @@
                     <key>Comment</key>
                     <string>V0.3.1</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/SMCRadeonGPU</string>
                     <key>MaxKernel</key>
